@@ -25,7 +25,7 @@ ReparaTec é uma plataforma intermediadora que conecta empresas que necessitam d
 
 
 
-## ✔️ Tecnologias utilizadas
+## 👨‍💻 Tecnologias utilizadas
 
 `HTML`: Linguagem utilizada para desenvolver a as páginas do aplicativo.
 
