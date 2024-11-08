@@ -9,7 +9,7 @@
 * [Tecnologias utilizadas](#Tecnologias-utilizadas)
 * [Funcionalidades](#Funcionalidades-do-projeto)
 * [Etapas realizadas](#Etapas-realizadas)
-* [Acesse o site do projeto](#Acesse-o-site-do-projeto)
+* [Site do projeto](#site-do-projeto)
 * [Colaboradores](#Colaboradores)
 * [Licença](#Licença)
 
@@ -41,7 +41,7 @@ Planejamento > Código > Construção > Teste > Lançamento > Implantação > Op
 ```
 
 
-## 🌐 Acesse o site do projeto:
+## 🌐 Site do projeto:
 
 https://www.reparatec.online/
 
