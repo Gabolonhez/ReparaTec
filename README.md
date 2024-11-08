@@ -31,9 +31,6 @@ ReparaTec é uma plataforma intermediadora que conecta empresas que necessitam d
 `MySQL`: Utilizado para criação do banco de dados do aplicativo.
 
 
-## 📁 Link do Figma
-
-Você pode [acessar o figma do projeto aqui](https://www.figma.com/design/Sz1gmmemxqcB3amInL4Ndp/Rebrand-Memoteca-%7C-Curso-CRUD?node-id=148-26&t=FpdmfbiM1i1s6REQ-0).
 
 ## Acesse o site do projeto:
 
