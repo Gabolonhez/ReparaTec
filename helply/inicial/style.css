@@ -1,0 +1,151 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,200..1000;1,200..1000&display=swap');
+
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+body{
+    /* overflow: hidden; */
+    background-color: #FFEDD5;
+    font-family: "Nunito", sans-serif;
+    display: flex;
+}
+
+aside{
+    /* border: 1px solid; */
+    width: 314px;
+    height: 86vh;
+    margin-top: 20px;
+    background-color: #FFFFFF;
+    border-radius: 30px;
+    padding: 30px;
+    margin-right: 120px;
+}
+
+.cabecalho-lateral{
+    border-bottom: 2px solid #c7c5c5;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-bottom: 15px;
+}
+
+.cabecalho-lateral img{
+    width: 25px;
+}
+
+.menu{
+    margin-top: 20px;
+}
+
+.menu h3{
+    font-size: 8px;
+    color: #bfbfbf;
+    margin-bottom: 10px;
+}
+
+.menu nav{
+    margin-left: 15px;
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+
+.menu nav a{
+    display: flex;
+    gap: 10px;
+    text-decoration: none;
+    align-items: center;
+    color: #4A4A4A;
+    font-size: 15px;
+}
+
+.links{
+    /* border: 1px solid; */
+    height: 90%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.perfil {
+    display: flex;
+    gap: 20px;
+    align-items: center;
+}
+
+.perfil .informacoes {
+    /* border: 1px solid; */
+    display: flex;
+    flex-direction: column;
+}
+
+.perfil .informacoes h3{
+    margin-bottom: -5px;
+}
+
+.perfil .informacoes p{
+    /* color: #9d9d9d; */
+    font-size: 11px;
+    font-weight: 700;
+}
+
+main{
+    margin-top: 40px;
+    /* border: 1px solid black; */
+    width: 60%;
+    display: flex;
+    flex-direction: column;
+
+    gap: 20px;
+}
+
+main h1{
+    color: #4A4A4A !important;
+    margin-bottom: 20px;
+}
+
+main .menus{
+    /* border: 1px solid; */
+    display: flex;
+    align-items: center;
+    text-align: center;
+    height: 350px;
+    flex-wrap: wrap;
+    gap: 2px;
+}
+
+.menus .registro, .turma, .diario, .encontros{
+    display: flex;
+    align-items: center;
+    width: 300px;
+    justify-content: space-around;
+    border-radius: 10px;
+    cursor: pointer;
+    height: 120px;
+}
+
+.menus .registro {
+    background-color: #93E18D;
+    border: 3px solid #4D8978;
+    color: #4D8978;
+}
+
+.menus .encontros {
+    background-color: #C6CAE3;
+    border: 3px solid #182838;
+    color: #182838;
+}
+
+.menus .turma{
+    background-color: #E3D9C6;
+    border: 3px solid #162941;
+    color: #8b867c;
+}
+
+.menus .diario{
+    background-color: #FB9E53;
+    border: 3px solid #F36F00;
+    color: #F36F00;
+}

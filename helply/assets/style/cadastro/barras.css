@@ -1,0 +1,84 @@
+.barra{
+    margin-top: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    /* border: 1px solid; */
+}
+
+.info{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.text-select{
+    font-size: 13px;
+    font-weight: 800;
+    color:  #ff5800;
+}
+
+.ball-select{
+    width: 16px;
+    height: 15px;
+    /* border: 1px solid; */
+    border-radius: 100%;
+    background-color:  #ff5800;
+    z-index: 99;
+}
+
+.traco, 
+.traco2,
+.traco3{
+    width: 125px;
+    height: 4px;
+    /* border: 1px solid; */
+    background-color: #E5E6E6;
+    margin-top: 5px;
+    
+}
+
+.traco-select, .traco2-select, .traco3-select{
+    width: 125px;
+    height: 4px;
+    /* border: 1px solid; */
+    background-color: #ff5800;
+    margin-top: 5px;
+}
+
+.traco, .traco-select{
+    margin-left: -8px;
+}
+
+.pessoal, .detalhes{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.pessoal, .traco2, .traco2-select{
+    margin-left: -23px;
+}
+
+.detalhes, .traco3, .traco3-select{
+    margin-left: -28px;
+}
+
+.pessoal .text, .detalhes .text{
+    font-size: 13px;
+    font-weight: 800;
+    color:   #E5E6E6;
+}
+
+.ball{
+    width: 16px;
+    height: 15px;
+    /* border: 1px solid; */
+    border-radius: 100%;
+    background-color:   #E5E6E6;
+    z-index: 99;
+}
+
+

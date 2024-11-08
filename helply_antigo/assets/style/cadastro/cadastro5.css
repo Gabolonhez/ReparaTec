@@ -1,0 +1,138 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,200..1000;1,200..1000&display=swap');
+
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+
+body{
+    display: flex;
+    flex-direction: column;
+    font-family: "Nunito", sans-serif;
+    overflow-x: hidden;
+}
+
+header{
+    display: flex;
+    justify-content: space-between;
+    /* border: 1px solid; */
+    width: 90%;
+    padding: 10px 100px;
+    align-items: center;
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.2);
+}
+
+header img{
+    width: 240px;
+    height: 60px;
+}
+
+header .entrar{    
+    width: 150px;
+    height: 47px;
+    border-radius: 5px;
+    border: none;
+    border: 1px solid #ff5800;
+    background-color: #fff;
+    color: #ff5800;
+    cursor: pointer;
+    margin-right: 80px;
+}
+
+
+.container{
+    margin: 50px 10px;
+    /* border: 1px solid; */
+    text-align: center;
+    /* height: 100vh; */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.container h2{
+    font-size: 29px;
+}
+
+form {
+    /* border: 1px solid; */
+    display: flex;
+    flex-direction: column;
+    gap: 50px;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    margin-top: 50px;
+}
+
+.form{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    align-items: center;
+}
+
+.termos{
+    display: flex;
+    gap: 10px;
+    width: 430px;
+    margin-bottom: 30px;
+}
+
+.termos p{
+    text-align: left;
+    font-size: 12px;
+}
+
+.termos p a{
+    text-decoration: none;
+    color: #ff5800;
+}
+
+.termos p a:hover{
+    text-decoration: underline;
+}
+
+input[type="checkbox"]:hover{
+    cursor: pointer;
+}
+
+.botao{
+    /* border: 1px solid; */
+
+    width: 410px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.botao .continuar{
+    width: 131px;
+    height: 44px;
+    justify-content: center; 
+    padding: 12px;
+    border-radius: 5px;
+    border: none;
+    background-color: #ff5800;
+    color: white;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    gap: 5px;
+        
+}
+
+.botao .voltar{
+    width: 82px;
+    height: 44px;
+    border-radius: 5px;
+    border: none;
+    border: 1px solid #ff5800;
+    background-color: #fff;
+    color: #ff5800;
+    cursor: pointer;
+    display: flex;
+    justify-content: center; 
+    align-items: center;
+    gap: 5px;
+}

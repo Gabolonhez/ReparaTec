@@ -1,0 +1,210 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,200..1000;1,200..1000&display=swap');
+
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+
+body{
+    display: flex;
+    flex-direction: column;
+    font-family: "Nunito", sans-serif;
+    overflow-x: hidden;
+}
+
+header{
+    display: flex;
+    justify-content: space-between;
+    /* border: 1px solid; */
+    width: 90%;
+    padding: 10px 100px;
+    align-items: center;
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.2);
+}
+
+header img{
+    width: 240px;
+    height: 60px;
+}
+
+header .entrar{    
+    width: 150px;
+    height: 47px;
+    border-radius: 5px;
+    border: none;
+    border: 1px solid #ff5800;
+    background-color: #fff;
+    color: #ff5800;
+    cursor: pointer;
+    margin-right: 80px;
+}
+
+
+.container{
+    margin: 50px 10px;
+    /* border: 1px solid; */
+    text-align: center;
+    /* height: 100vh; */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.container h2{
+    font-size: 29px;
+}
+
+
+.form{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+form {
+    /* border: 1px solid; */
+    display: flex;
+    flex-direction: column;
+    gap: 50px;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    margin-top: 50px;
+}
+
+.opcao {
+    width: 390px;
+    border-radius: 10px;
+    height: 110px;
+    background-color: #F6F6F6;
+    display: flex;
+    padding: 10px;
+    cursor: pointer;
+    border: 1px solid #e1e1e1;
+    position: relative;
+    transition: border-color 0.3s ease;
+}
+
+/* Esconde o radio button padrão */
+input[type="radio"] {
+    display: none;
+}
+
+/* Estilo quando o radio está "checked", mudando a borda da label */
+input[type="radio"]:checked + label .opcao {
+    border-color: #ff5800;
+}
+
+/* Custom radio button */
+.custom-radio {
+    width: 10px;
+    height: 10px;
+    border: 2px solid #ccc;
+    border-radius: 50%;
+    position: absolute;
+    right: 10px;
+    top: 50%;
+    transform: translateY(-50%);
+    transition: border-color 0.3s ease;
+}
+
+/* Círculo interno do custom radio button */
+.custom-radio::after {
+    content: '';
+    width: 5px;
+    height: 5px;
+    background-color: transparent;
+    border-radius: 50%;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    transition: background-color 0.3s ease;
+}
+
+/* Quando o radio button está "checked", muda a cor da borda e o preenchimento */
+input[type="radio"]:checked + label .custom-radio {
+    border-color: #ff5800;
+}
+
+input[type="radio"]:checked + label .custom-radio::after {
+    background-color: #ff5800;
+}
+
+/* Estilo do texto e da cor quando selecionado */
+input[type="radio"]:checked + label .text h3 {
+    color: #ff5800;
+}
+
+.opcao:hover {
+    border-color: #ff5800;
+    .custom-radio{
+        border-color: #ff5800;
+    }
+    .custom-radio::after{
+        background-color: #ff5800;
+    }
+}
+
+
+.informacao{
+    display: flex;
+    padding: 10px;
+    align-items: center;
+}
+
+.informacao img{
+    width: 57px;
+    height: 57.26px;
+}
+
+.informacao .text{
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+    gap: 5px;
+    margin-left: 10px;
+}
+
+
+
+
+.botao{
+    /* border: 1px solid; */
+
+    width: 410px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.botao .continuar{
+    width: 131px;
+    height: 44px;
+    justify-content: center; 
+    padding: 12px;
+    border-radius: 5px;
+    border: none;
+    background-color: #ff5800;
+    color: white;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    gap: 5px;
+        
+}
+
+.botao .voltar{
+    width: 82px;
+    height: 44px;
+    border-radius: 5px;
+    border: none;
+    border: 1px solid #ff5800;
+    background-color: #fff;
+    color: #ff5800;
+    cursor: pointer;
+    display: flex;
+    justify-content: center; 
+    align-items: center;
+    gap: 5px;
+}

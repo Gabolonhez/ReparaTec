@@ -1,0 +1,27 @@
+main{
+    margin-top: 20px;
+    /* border: 1px solid black; */
+    width: 60%;
+    display: flex;
+    flex-direction: column;
+}
+
+.cabecalho-central{
+    /* border: 1px solid black; */
+    width: 100%;
+    border-bottom: 2px solid #c7c5c5;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.cabecalho-central .texto{
+    border-left: 6px solid #F36F00;
+    padding-left: 10px;
+    margin-bottom: 15px;
+}
+
+.texto h2{
+    font-size: 13px;
+    color: #9d9d9d;
+}

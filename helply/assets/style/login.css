@@ -1,0 +1,124 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,200..1000;1,200..1000&display=swap');
+
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+
+body{
+    display: flex;
+    overflow: hidden;
+    font-family: "Nunito", sans-serif;
+}
+
+.fundo img{
+    width: 48vw;
+    height: 100vh;
+}
+
+.logo img{
+    width: 150px;
+}
+
+.container{
+    width: 52.6vw;
+}
+
+
+header{
+    /* border: 1px solid black; */
+    width: 90%;
+    padding: 20px;
+    text-align: right;
+}
+
+.form{
+    width: 55vw;
+    /* border: 1px solid black; */
+    text-align: center;
+    height: 80vh;
+    display: flex; 
+    justify-content: center; 
+    align-items: center;
+    flex-direction: column; 
+}
+
+.welcome{
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 90px;
+}
+
+.form h2{
+    font-weight: 800;
+    font-size: 29px;
+}
+
+.form h3{
+    font-weight: 400;
+    font-size: 16px;
+}
+
+.informations{
+    text-align: left;
+    /* border: 1px solid black; */
+    display: flex;
+    gap: 20px;
+    flex-direction: column;
+    width: 40%;
+}
+
+input[type="email"]{
+    width: 100%;
+}
+
+.informations input{
+    padding: 6px;
+    font-size: 12px;
+    border-radius: 5px;
+    border: 1px solid #CBD5E1;
+    margin-bottom: 20px;
+}
+
+.informations .continue{
+    padding: 12px;
+    border-radius: 5px;
+    border: none;
+    background-color: #ff5800;
+    color: white;
+    cursor: pointer;
+}
+
+.informations .new{    
+    padding: 12px;
+    border-radius: 5px;
+    border: none;
+    border: 1px solid #ff5800;
+    background-color: #fff;
+    color: #ff5800;
+    cursor: pointer;
+    text-decoration: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+.botao-continuar{
+    border: 1px solid;
+    width: 100%;
+}
+
+.botao-continuar i{
+    margin-right: -50px;
+    z-index: 999;
+}
+
+/* CSS aplicado juntamente com o BACK-END */
+
+.informations p{
+    /* border: 1px solid; */
+    text-align: center;
+    color: red;
+}

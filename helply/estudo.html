@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Caderno Helply</title>
+    <style>
+        /* Espiral do caderno */
+        .espiral {
+            width: 30px;
+            height: 300px;
+            display: flex;
+            flex-direction: column;
+            justify-content: space-around;
+            position: relative;
+        }
+
+        /* Barra vertical da espiral */
+        .barra-vertical {
+            position: absolute;
+            width: 5px;
+            height: 100%;
+            background-color: #333;
+            left: 12px; /* Centraliza a barra no meio da espiral */
+        }
+
+        /* As barras horizontais que simulam os aros da espiral */
+        .barra-horizontal {
+            width: 30px;
+            height: 5px;
+            background-color: #333;
+            margin: 10px 0;
+            border-radius: 3px;
+        }
+    </style>
+</head>
+<body>
+    <div class="caderno">
+        <div class="espiral">
+            <div class="barra-vertical"></div>
+            <div class="barra-horizontal"></div>
+            <div class="barra-horizontal"></div>
+            <div class="barra-horizontal"></div>
+            <div class="barra-horizontal"></div>
+            <div class="barra-horizontal"></div>
+            <div class="barra-horizontal"></div>
+        </div>
+    </div>
+</body>
+</html>

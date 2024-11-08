@@ -1,0 +1,156 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,200..1000;1,200..1000&display=swap');
+
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+
+body{
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
+    font-family: "Nunito", sans-serif;
+}
+
+header{
+    display: flex;
+    justify-content: space-between;
+    /* border: 1px solid; */
+    width: 90%;
+    padding: 10px 100px;
+    align-items: center;
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.2);
+}
+
+header img{
+    width: 240px;
+    height: 60px;
+}
+
+header .entrar{    
+    width: 150px;
+    height: 47px;
+    border-radius: 5px;
+    border: none;
+    border: 1px solid #ff5800;
+    background-color: #fff;
+    color: #ff5800;
+    cursor: pointer;
+    margin-right: 80px;
+}
+
+body{
+    overflow: hidden;
+}
+
+.container{
+    /* border: 1px solid; */
+    text-align: center;
+    height: 90vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.container h2{
+    font-size: 29px;
+}
+
+form {
+    /* border: 1px solid; */
+    display: flex;
+    flex-direction: column;
+    gap: 50px;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    margin-top: 50px;
+}
+
+.form {
+    /* border: 1px solid; */
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    width: 50%;
+}
+
+label{
+    font-size: 13px;
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+    /* border: 1px solid; */
+    /* width: 100%; */
+}
+
+.form1{
+    /* border: 1px solid red; */
+    display: flex;
+    justify-content: space-between;
+    align-items: left;
+    text-align: left;
+    /* gap: 10px; */
+    width: 410px;    
+}
+
+input[type="text"]{
+    padding: 6px;
+    font-size: 12px;
+    border-radius: 5px;
+    border: 1px solid #CBD5E1;
+    height: 20px;
+}
+
+.telefone, .genero{
+    /* border: 1px solid black; */
+    /* width: 70%; */
+    text-align: left;
+}
+
+#telefone, #genero{
+    width: 400px;
+    height: 20px;
+}
+
+.botao{
+    /* border: 1px solid; */
+    width: 410px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.botao .continuar{
+    width: 131px;
+    height: 44px;
+    justify-content: center; 
+    padding: 12px;
+    border-radius: 5px;
+    border: none;
+    background-color: #ff5800;
+    color: white;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    gap: 5px;
+        
+}
+
+.botao .voltar{
+    width: 82px;
+    height: 44px;
+    border-radius: 5px;
+    border: none;
+    border: 1px solid #ff5800;
+    background-color: #fff;
+    color: #ff5800;
+    cursor: pointer;
+    display: flex;
+    justify-content: center; 
+    align-items: center;
+    gap: 5px;
+}
