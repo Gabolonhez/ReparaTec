@@ -7,8 +7,8 @@
 
 * [Descrição](#Descrição)
 * [Tecnologias utilizadas](#Tecnologias-utilizadas)
+* [Funcionalidades](#Funcionalidades-do-projeto)
 * [Etapas realizadas](#Etapas-realizadas)
-* [Funcionalidades](#Funcionalidades)
 * [Acesse o site do projeto](#Acesse-o-site-do-projeto)
 * [Colaboradores](#Colaboradores)
 * [Licença](#Licença)
@@ -18,17 +18,12 @@
 ReparaTec é uma plataforma intermediadora que conecta empresas que necessitam de suporte em sua infraestrutura tecnológica a técnicos qualificados.
 ![image](https://github.com/user-attachments/assets/a63a2ec1-69bb-4ff7-bf31-9e47dcbe17e8)
 
-<!-- ## 🔨 Funcionalidades do projeto
+## 🔨 Funcionalidades do projeto
 
-`Cadastro de pensamentos`: Permite adicionar novos pensamentos à lista, inserindo informações como conteúdo e autoria.
+`Cadastro e acesso dos usuários`: Permite os usuários cadastrar e acessar a plataforma.
 
-`Listagem de pensamentos`: Exibe os pensamentos cadastrados, permitindo visualizar o texto e a autoria.
 
-`Edição de pensamentos`: Permite editar pensamentos existentes, atualizando as informações conforme necessário.
 
-`Exclusão de pensamentos`: Permite remover pensamentos da lista. 
-
--->
 
 ## ✔️ Tecnologias utilizadas
 
