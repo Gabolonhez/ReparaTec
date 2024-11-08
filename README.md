@@ -3,7 +3,7 @@
 # REPARATEC 
 ![](./Reparatec.png)
 
-## Índice
+## ✍🏼 Índice
 
 * [Descrição](#Descrição)
 * [Tecnologias utilizadas](#Tecnologias-utilizadas)
@@ -13,17 +13,14 @@
 * [Colaboradores](#Colaboradores)
 * [Licença](#Licença)
 
-## Descrição
+## 📑 Descrição
 
 ReparaTec é uma plataforma intermediadora que conecta empresas que necessitam de suporte em sua infraestrutura tecnológica a técnicos qualificados.
 ![image](https://github.com/user-attachments/assets/a63a2ec1-69bb-4ff7-bf31-9e47dcbe17e8)
 
-## 🔨 Funcionalidades do projeto
+## 🎯 Funcionalidades do projeto
 
 `Cadastro e acesso dos usuários`: Permite os usuários cadastrar e acessar a plataforma.
-
-
-
 
 ## 👨‍💻 Tecnologias utilizadas
 
@@ -37,23 +34,23 @@ ReparaTec é uma plataforma intermediadora que conecta empresas que necessitam d
 
 `MySQL`: Utilizado para criação do banco de dados do aplicativo.
 
-## Etapas realizadas:
+## 🛠️ Etapas realizadas:
 
 ```
 Planejamento > Código > Construção > Teste > Lançamento > Implantação > Operação > Monitoração 
 ```
 
 
-## Acesse o site do projeto:
+## 🌐 Acesse o site do projeto:
 
 https://www.reparatec.online/
 
-## Colaboradores:
+## 👨‍💼 Colaboradores:
 
 | [Gabriel Bolonhez Felipe](https://github.com/Gabolonhez) | [Gustavo Fragata Rousseau](https://github.com/fr4agata) | [Bruno Ferrari Toniatti](https://github.com/BrunoToniatti)
 | :---: | :---: | :---: |
 
-## Licença :construction:
+## 🚧 Licença :construction:
 Docusaurus is [MIT licensed](./LICENSE).
 The Docusaurus documentation (e.g., `.md` files in the `/docs` folder)
 is [Creative Commons licensed](./LICENSE-docs).
