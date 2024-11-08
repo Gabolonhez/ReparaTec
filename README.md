@@ -1,4 +1,4 @@
-# ReparaTec
+# REPARATEC
 ![](./Reparatec.png)
 
 ## Descrição
