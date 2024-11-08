@@ -6,7 +6,7 @@ $senha      = $_POST['senha'] ?? "";
 <<<<<<< HEAD
 $senha2     = $_POST['senha2'] ?? "";
 =======
->>>>>>> f1cd00da0f098f8d00877195b0a62ea94cb267d5
+
 $uf         = $_POST['uf'] ?? "";
 $cadastro   = $_POST['cadastro'] ?? "";
 $mandar     = $_POST['mandar'] ?? "";
@@ -35,7 +35,6 @@ if($mandar == "sim"){
         header('Location: carregamento/index.html');
 	    exit();
     }else{
->>>>>>> f1cd00da0f098f8d00877195b0a62ea94cb267d5
     }
 }
 
@@ -61,11 +60,8 @@ $conn->close();
                                 </p>
                             </div>
                             <h3 class="text-center p-b-20 fw-400">Registrar-se</h3>
-<<<<<<< HEAD
                             <p style="color: red; width: 100%; text-align: center;"><?=$msg?></p>
 =======
-
->>>>>>> f1cd00da0f098f8d00877195b0a62ea94cb267d5
                             <div class="form-row">
                             <div class="form-group floating-label col-md-12">
                                     <label>Nome</label>
@@ -90,12 +86,10 @@ $conn->close();
                             </div>
                             <div class="form-group floating-label">
                                 <label>Repita a senha</label>
-<<<<<<< HEAD
                                 <input type="password" class="form-control" name="senha2" required id="confirm_password" placeholder="Repita a senha">
 =======
                                 <input type="password" class="form-control" required id="confirm_password"
                                        placeholder="Repita a senha">
->>>>>>> f1cd00da0f098f8d00877195b0a62ea94cb267d5
                             </div>
                             <div class="form-row">
                                 <div class="form-group floating-label col-md-6">
