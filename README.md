@@ -44,6 +44,11 @@ ReparaTec é uma plataforma intermediadora que conecta empresas que necessitam d
 
 `MySQL`: Utilizado para criação do banco de dados do aplicativo.
 
+Etapas:
+
+```
+Planejamento > Código > Construção > Teste > Lançamento > Implantação > Operação > Monitoração 
+```
 
 
 ## Acesse o site do projeto:
