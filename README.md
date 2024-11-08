@@ -1,5 +1,5 @@
 # ReparaTec
-![Thumbnail](./thumb.png)
+![Thumbnail](./reparatec.png)
 
 # Memoteca
 
