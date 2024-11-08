@@ -201,9 +201,12 @@ Stack trace:
 [05-Nov-2024 22:24:52 America/Fortaleza] PHP Warning:  Undefined variable $estado in /home1/repara69/public_html/includes/top.php on line 14
 [05-Nov-2024 22:24:52 America/Fortaleza] PHP Warning:  Undefined variable $nome_completo in /home1/repara69/public_html/includes/top.php on line 106
 [05-Nov-2024 22:24:52 America/Fortaleza] PHP Warning:  Undefined variable $tipo in /home1/repara69/public_html/pg_pd_001.php on line 81
+<<<<<<< HEAD
 [06-Nov-2024 16:48:20 America/Fortaleza] PHP Warning:  Undefined variable $estado in /home1/repara69/public_html/includes/top.php on line 14
 [06-Nov-2024 16:48:20 America/Fortaleza] PHP Warning:  Undefined variable $nome_completo in /home1/repara69/public_html/includes/top.php on line 106
 [06-Nov-2024 19:29:19 America/Fortaleza] PHP Warning:  Undefined variable $user_senha in /home1/repara69/public_html/login.php on line 29
 [06-Nov-2024 20:19:10 America/Fortaleza] PHP Warning:  Undefined variable $user_senha in /home1/repara69/public_html/login.php on line 29
 [06-Nov-2024 21:39:24 America/Fortaleza] PHP Warning:  Undefined variable $estado in /home1/repara69/public_html/includes/top.php on line 14
 [06-Nov-2024 21:39:24 America/Fortaleza] PHP Warning:  Undefined variable $nome_completo in /home1/repara69/public_html/includes/top.php on line 106
+=======
+>>>>>>> f1cd00da0f098f8d00877195b0a62ea94cb267d5

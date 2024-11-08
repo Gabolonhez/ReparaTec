@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 <?php
+=======
+	<?php
+>>>>>>> f1cd00da0f098f8d00877195b0a62ea94cb267d5
 $menu = "home";
 ?>
 
@@ -79,6 +83,7 @@ $menu = "home";
 									</div>
 									<div class="fbox-content">
 										<h3 class="text-transform-none ls-0">Para técnicos qualificados:</h3>
+<<<<<<< HEAD
 										<p style="color: white !important;">Novos clientes e novas oportunidades de trabalho.
 										</p>
 										<p style="color: white !important;">Flexibilidade para gerenciar sua agenda.
@@ -89,6 +94,16 @@ $menu = "home";
 										</p>
 										<p style="color: white !important;">Receba pagamentos de forma segura e rápida.
 										</p>
+=======
+										<p style="color: white !important;">Novos Clientes: Aumente sua base de
+											clientes.</p>
+										<p style="color: white !important;">Trabalho: encontre novas oportunidades de
+											trabalho.</p>
+										<p style="color: white !important;">Flexibilidade: Gerencie sua agenda e escolha
+											os serviços que você possa atender</p>
+										<p style="color: white !important;">Reputação: Construa uma reputação sólida
+											através das avaliações</p>
+>>>>>>> f1cd00da0f098f8d00877195b0a62ea94cb267d5
 									</div>
 								</div>
 
@@ -98,7 +113,11 @@ $menu = "home";
 												class="bg-transparent rounded-0"></a>
 									</div>
 									<div class="fbox-content">
+<<<<<<< HEAD
 										<h3 class="text-transform-none ls-0">Serviços de suporte:</h3>
+=======
+										<h3 class="text-transform-none ls-0">Serviços de suporte prestados:</h3>
+>>>>>>> f1cd00da0f098f8d00877195b0a62ea94cb267d5
 										<p style="color: white !important;">Manutenção: Identifica e soluciona problemas
 											técnicos, manutenção preventiva e corretiva em equipamentos, softwares e
 											sistemas.</p>
@@ -123,6 +142,7 @@ $menu = "home";
 									</div>
 									<div class="fbox-content">
 										<h3 class="text-transform-none ls-0">Para as empresas:</h3>
+<<<<<<< HEAD
 										<p style="color: white !important;">Acesso a uma ampla rede de técnicos profissionais e qualificados. 
 										</p>
 										<p style="color: white !important;">Agilidade na contratação de serviços de suporte.
@@ -135,6 +155,19 @@ $menu = "home";
 									</div>
 								</div>
 								<br>
+=======
+										<p style="color: white !important;">Acesso a uma ampla rede de técnicos
+											profissionais e qualificados.</p>
+										<p style="color: white !important;">Agilidade na resolução de problemas e na
+											contratação de serviços de suporte.</p>
+										<p style="color: white !important;">Economia de tempo e recursos.</p>
+										<p style="color: white !important;">Melhoria da eficiência e da produtividade.
+										</p>
+										<p style="color: white !important;">Garantia de qualidade dos serviços.</p>
+									</div>
+								</div>
+
+>>>>>>> f1cd00da0f098f8d00877195b0a62ea94cb267d5
 								<div class="feature-box border-0 mt-5">
 									<div class="fbox-icon">
 										<a href="#"><img src="demos/seo/images/icons/experience.svg" alt="Feature Icon"
@@ -142,6 +175,7 @@ $menu = "home";
 									</div>
 									<div class="fbox-content">
 										<h3 class="text-transform-none ls-0">Infraestrutura de TI (Tecnológica):</h3>
+<<<<<<< HEAD
 										<p style="color: white !important;">Hardware: Servidores, computadores, equipamentos de informática, dispositivos de armazenamento, cabeamento, roteadores, switches, etc.
 										</p>
 										<p style="color: white !important;">Softwares: Sistemas operacionais, bancos de dados, aplicações, ferramentas de virtualização, firewalls, etc.
@@ -149,6 +183,17 @@ $menu = "home";
 										<p style="color: white !important;">
 										<br><br><br><br><br><br>
 										</p>
+=======
+										<p style="color: white !important;">Hardware: Servidores, computadores,
+											periféricos, dispositivos de armazenamento, etc.</p>
+										<p style="color: white !important;">Software e Sistemas: Sistemas operacionais,
+											bancos de dados, softwares de aplicação, ferramentas de virtualização, etc.
+										</p>
+										<p style="color: white !important;">Redes: Cabeamento, roteadores, switches,
+											firewalls.</p>
+										<p style="color: white !important;">Cloud computing: Serviços de computação em
+											nuvem que fornecem recursos sob demanda.</p>
+>>>>>>> f1cd00da0f098f8d00877195b0a62ea94cb267d5
 									</div>
 								</div>
 							</div>
@@ -168,7 +213,11 @@ $menu = "home";
 									</div>
 									<div class="fbox-content">
 										<h3 class="text-transform-none ls-0">Dentro da plataforma</h3>
+<<<<<<< HEAD
 										<p style="color: white !important;">Acesse e atualize as informações do seu usuário, faça conexões e converse por chat, realize a geração de orçamentos e pagamentos.</p>
+=======
+										<p style="color: white !important;">Acesse e atualize as informações do seu usuário, faça conexões e converse por chat, realize a geração de orçamentos e pagamentos</p>
+>>>>>>> f1cd00da0f098f8d00877195b0a62ea94cb267d5
 									</div>
 								</div>
 							</div>

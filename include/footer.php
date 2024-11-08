@@ -1,7 +1,12 @@
 <div class="section mt-0" style="background: url('demos/seo/images/sections/3.jpg') no-repeat top center; background-size: cover; padding: 0 0 70px;">
 				<div class="container">
+<<<<<<< HEAD
 						<div class="heading-block border-bottom-0 text-center p-4">
 						<div class="badge rounded-pill badge-default ">Depoimentos</div>
+=======
+						<div class="heading-block border-bottom-0 text-center">
+						<div class="badge rounded-pill badge-default">Depoimentos</div>
+>>>>>>> f1cd00da0f098f8d00877195b0a62ea94cb267d5
 						<h3 class="text-transform-none ls-0">O que os usuários dizem?</h3>
 						</div>
 
@@ -28,9 +33,15 @@
 									<div class="card-body p-4 pt-2 position-relative overflow-hidden">
 										<div class="row">
 											<div class="col-12 text-center">
+<<<<<<< HEAD
 											<p class="mb-4 font-primary fst-normal">"Consegui o suporte necessário para arrumar a infraestrutura tecnológica da minha empresa"</p>
 												<h4 class="h6 mb-0 fw-bold">Lucas Levinski</h4>
 												<small class="text-muted">Empreendedor</small>
+=======
+											<p class="mb-4 font-primary fst-normal">"Consegui o suporte necessário para arrumar infraestrutura tecnológica da minha empresa"</p>
+												<h4 class="h6 mb-0 fw-bold">Lucas Levinski</h4>
+												<small class="text-muted">Empresário</small>
+>>>>>>> f1cd00da0f098f8d00877195b0a62ea94cb267d5
 											</div>
 										</div>
 										<div class="bg-icon bi-quote op-02"></div>
@@ -79,7 +90,11 @@
 
 						<div class="col-12 col-lg-auto text-center text-lg-end">
 							<div class="copyrights-menu copyright-links">
+<<<<<<< HEAD
 							<a href="https://wa.me/message/CU6GJXKGR3WKO1" class="text-contrast-600">Entre em contato</a>/<a href="https://wa.me/message/CU6GJXKGR3WKO1" class="text-contrast-600">Suporte</a>
+=======
+							<a href="#" class="text-contrast-600">Entre em contato</a>/<a href="#" class="text-contrast-600">Suporte</a>
+>>>>>>> f1cd00da0f098f8d00877195b0a62ea94cb267d5
 							</div>
 						</div>
 					</div>
