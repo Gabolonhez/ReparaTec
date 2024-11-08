@@ -1,6 +1,0 @@
-[18-Oct-2024 17:56:57 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home1/repara69/public_html/helply/include/conexao.php:7
-Stack trace:
-#0 /home1/repara69/public_html/helply/include/conexao.php(7): mysqli_connect('localhost', 'root', Object(SensitiveParameterValue), 'helply')
-#1 /home1/repara69/public_html/helply/index.php(2): include('/home1/repara69...')
-#2 {main}
-  thrown in /home1/repara69/public_html/helply/include/conexao.php on line 7

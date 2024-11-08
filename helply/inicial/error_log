@@ -1,5 +1,0 @@
-[04-Nov-2024 15:55:45 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'repara69_helply.leituras' doesn't exist in /home1/repara69/public_html/helply/inicial/inicial.php:7
-Stack trace:
-#0 /home1/repara69/public_html/helply/inicial/inicial.php(7): mysqli_prepare(Object(mysqli), 'SELECT * FROM l...')
-#1 {main}
-  thrown in /home1/repara69/public_html/helply/inicial/inicial.php on line 7
