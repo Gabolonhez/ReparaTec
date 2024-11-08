@@ -22,7 +22,7 @@ ReparaTec é uma plataforma intermediadora que conecta empresas que necessitam d
 
 `Cadastro e acesso dos usuários`: Permite os usuários cadastrar e acessar a plataforma.
 
-## 👨‍💻 Tecnologias utilizadas
+## 💻 Tecnologias utilizadas
 
 `HTML`: Linguagem utilizada para desenvolver a as páginas do aplicativo.
 
@@ -45,7 +45,7 @@ Planejamento > Código > Construção > Teste > Lançamento > Implantação > Op
 
 https://www.reparatec.online/
 
-## 👨‍💼 Colaboradores:
+## 👨‍💻 Colaboradores:
 
 | [Gabriel Bolonhez Felipe](https://github.com/Gabolonhez) | [Gustavo Fragata Rousseau](https://github.com/fr4agata) | [Bruno Ferrari Toniatti](https://github.com/BrunoToniatti) |
 
