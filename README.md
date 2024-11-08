@@ -7,6 +7,14 @@
 # REPARATEC 
 ![](./Reparatec.png)
 
+## Índice
+
+* [Descrição](#18)
+* [Tecnologias Utilizadas](#Tecnologias-utilizadas)
+* [Funcionalidades](#Funcionalidades)
+* [Colaboradores](#Colaboradores)
+* [Licença](#Licença)
+
 ## Descrição
 
 ReparaTec é uma plataforma intermediadora que conecta empresas que necessitam de suporte em sua infraestrutura tecnológica a técnicos qualificados.
