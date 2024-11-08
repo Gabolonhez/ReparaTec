@@ -32,7 +32,7 @@ ReparaTec é uma plataforma intermediadora que conecta empresas que necessitam d
 
 `JavaScript`: Linguagem de programação utilizada para desenvolver a lógica do aplicativo.
 
-`MySQL`: Utilizado para criação do banco de dados do aplicativo.
+`MySQL`: Utilizado para criação do banco de dados.
 
 ## 🛠️ Etapas realizadas:
 
