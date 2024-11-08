@@ -49,7 +49,7 @@ https://www.reparatec.online/
 
 | [Gabriel Bolonhez Felipe](https://github.com/Gabolonhez) | [Gustavo Fragata Rousseau](https://github.com/fr4agata) | [Bruno Ferrari Toniatti](https://github.com/BrunoToniatti) |
 
-## 🚧 Licença :construction:
+## 🚧
 Docusaurus is [MIT licensed](./LICENSE).
 The Docusaurus documentation (e.g., `.md` files in the `/docs` folder)
 is [Creative Commons licensed](./LICENSE-docs).
