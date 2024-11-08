@@ -10,7 +10,7 @@
 ## Índice
 
 * [Descrição](#Descrição)
-* [Tecnologias Utilizadas](#Tecnologias-utilizadas)
+* [Tecnologias utilizadas](#Tecnologias-utilizadas)
 * [Funcionalidades](#Funcionalidades)
 * [Colaboradores](#Colaboradores)
 * [Licença](#Licença)
