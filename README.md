@@ -9,11 +9,11 @@
 
 ## Índice
 
-* [Descrição](#18)
+* [Descrição](#Descrição)
 * [Tecnologias Utilizadas](#Tecnologias-utilizadas)
 * [Funcionalidades](#Funcionalidades)
 * [Colaboradores](#Colaboradores)
-* [Licença](#58)
+* [Licença](#Licença)
 
 ## Descrição
 
@@ -32,7 +32,7 @@ ReparaTec é uma plataforma intermediadora que conecta empresas que necessitam d
 
 -->
 
-## ✔️ Técnologias utilizadas
+## ✔️ Tecnologias utilizadas
 
 `HTML`: Linguagem utilizada para desenvolver a as páginas do aplicativo.
 
