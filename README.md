@@ -1,9 +1,9 @@
 ![license](https://user-images.githubusercontent.com/125428490/228728729-18d89fba-74ac-49d9-9b43-9ab1561672b2.png) 
-![GitHub repo size](https://img.shields.io/github/repo-size/iuricode/README-template?style=for-the-badge)
-![GitHub language count](https://img.shields.io/github/languages/count/iuricode/README-template?style=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks/iuricode/README-template?style=for-the-badge)
-![Bitbucket open issues](https://img.shields.io/bitbucket/issues/iuricode/README-template?style=for-the-badge)
-![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/iuricode/README-template?style=for-the-badge)
+![GitHub repo size](https://img.shields.io/github/Gabolonhez/ReparaTec/README-template?style=for-the-badge)
+![GitHub language count](https://img.shields.io/github/Gabolonhez/ReparaTec/README-template?style=for-the-badge)
+![GitHub forks](https://img.shields.io/github/Gabolonhez/ReparaTec/README-template?style=for-the-badge)
+![Bitbucket open issues](https://img.shields.io/github/Gabolonhez/ReparaTec/README-template?style=for-the-badge)
+![Bitbucket open pull requests](https://img.shields.io/github/Gabolonhez/ReparaTec/README-template?style=for-the-badge)
 # REPARATEC 
 ![](./Reparatec.png)
 
