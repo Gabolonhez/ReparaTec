@@ -7,7 +7,9 @@
 
 * [Descrição](#Descrição)
 * [Tecnologias utilizadas](#Tecnologias-utilizadas)
+* [Etapas realizadas](#Etapas-realizadas)
 * [Funcionalidades](#Funcionalidades)
+* [Acesse o site do projeto](#Acesse-o-site-do-projeto)
 * [Colaboradores](#Colaboradores)
 * [Licença](#Licença)
 
