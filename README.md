@@ -49,7 +49,7 @@ https://www.reparatec.online/
 
 ## 👨‍💻 Colaboradores:
 
-| [Gabriel Bolonhez Felipe](https://github.com/Gabolonhez) | [Gustavo Fragata Rousseau](https://github.com/fr4agata) | [Bruno Ferrari Toniatti](https://github.com/BrunoToniatti) |
+| [Bruno Ferrari Toniatti](https://github.com/BrunoToniatti) | [Gabriel Bolonhez Felipe](https://github.com/Gabolonhez) | [Gustavo Fragata Rousseau](https://github.com/fr4agata) | 
 
 ## 🚧 Licença:
 Docusaurus is [MIT licensed](./LICENSE).
