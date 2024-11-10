@@ -7,11 +7,13 @@
 ## ✍🏼 Índice
 
 * [Descrição](#Descrição)
-* [Tecnologias utilizadas](#Tecnologias-utilizadas)
-* [Funcionalidades](#Funcionalidades-do-projeto)
+* [Tecnologias utilizadas](#Tecnologias)
+* [Funcionalidades](#Funcionalidades)
 * [Etapas realizadas](#Etapas-realizadas)
 * [Site do projeto](#site-do-projeto)
+* [Layout](#layout)
 * [Colaboradores](#Colaboradores)
+* [Autor](#autor)
 * [Licença](#Licença)
 
 ## 📑 Descrição
@@ -25,7 +27,7 @@ ReparaTec é uma plataforma intermediadora que conecta empresas que necessitam d
 - [x] `Solicitações de serviços`: Permite Abertura, busca, agendamento, listagem, encerramento e avaliação de solicitações de serviços. <br>
 - [x] `Demais funcionalidades`: Permite realizar conexões, conversa via chat, página de financeiro e página para feedback. 
 
-## 💻 Tecnologias utilizadas
+## 💻 Tecnologias 
 
 `HTML`: Linguagem utilizada para desenvolver a as páginas do aplicativo.
 
@@ -56,4 +58,5 @@ https://www.reparatec.online/
 Docusaurus is [MIT licensed](./LICENSE).
 The Docusaurus documentation (e.g., `.md` files in the `/docs` folder)
 is [Creative Commons licensed](./LICENSE-docs).
+Este projeto esta sobe a licença [MIT](./LICENSE).
 
