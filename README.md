@@ -1,4 +1,6 @@
-<!-- ![license](https://user-images.githubusercontent.com/125428490/228728729-18d89fba-74ac-49d9-9b43-9ab1561672b2.png) -->
+![Badge](https://img.shields.io/badge/Blog-Rocketseat-%237159c1?style=for-the-badge&logo=ghost)
+https://img.shields.io/static/v1?label=<LABEL>&message=<MESSAGE>&color=<COLOR>&style=<STYLE>&logo=<LOGO>
+
 
 # REPARATEC 
 ![](./Reparatec.png)
