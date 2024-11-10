@@ -4,13 +4,11 @@
 ## ✍🏼 Índice
 
 * [Descrição](#Descrição)
-* [Tecnologias utilizadas](#Tecnologias)
+* [Tecnologias](#Tecnologias)
 * [Funcionalidades](#Funcionalidades)
 * [Etapas realizadas](#Etapas-realizadas)
 * [Site do projeto](#site-do-projeto)
-* [Layout](#layout)
 * [Colaboradores](#Colaboradores)
-* [Autor](#autor)
 * [Licença](#Licença)
 
 ## 📑 Descrição
