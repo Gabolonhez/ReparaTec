@@ -34,22 +34,22 @@ ReparaTec é uma plataforma intermediadora que conecta empresas que necessitam d
 
 `MySQL`: Utilizado para criação do banco de dados.
 
-## 🛠️ Etapas realizadas:
+## 🛠️ Etapas realizadas
 
 ```
 Brainstorming > Planejamento > Cronograma > Levantamento de requisitos > Diagramas > Documentação > Pesquisa de mercado > Personas > Casos de uso > Prototipação das interfaces > Codificação (Frontend e Backend) > Hospedagem e Deploy.
 ```
 
 
-## 🌐 Site do projeto:
+## 🌐 Site do projeto
 
 https://www.reparatec.online/
 
-## 👨‍💻 Colaboradores:
+## 👨‍💻 Colaboradores
 
 | [Bruno Ferrari Toniatti](https://github.com/BrunoToniatti) | [Gabriel Bolonhez Felipe](https://github.com/Gabolonhez) | [Gustavo Fragata Rousseau](https://github.com/fr4agata) | 
 
-## 🚧 Licença:
+## 🚧 Licença
 
 Este projeto esta sobe a licença [MIT](./LICENSE).
 
