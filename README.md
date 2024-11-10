@@ -39,7 +39,7 @@ ReparaTec é uma plataforma intermediadora que conecta empresas que necessitam d
 ## 🛠️ Etapas realizadas:
 
 ```
-Planejamento > Código > Construção > Teste > Lançamento > Implantação > Operação > Monitoração 
+Brainstorming > Planejamento > Cronograma > Levantamento de requisitos > Diagramas > Documentação > Pesquisa de mercado > Personas > Casos de uso > Prototipação das interfaces > Codificação (Frontend e Backend) > Hospedagem e Deploy.
 ```
 
 
