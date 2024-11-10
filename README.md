@@ -52,8 +52,6 @@ https://www.reparatec.online/
 | [Bruno Ferrari Toniatti](https://github.com/BrunoToniatti) | [Gabriel Bolonhez Felipe](https://github.com/Gabolonhez) | [Gustavo Fragata Rousseau](https://github.com/fr4agata) | 
 
 ## 🚧 Licença:
-Docusaurus is [MIT licensed](./LICENSE).
-The Docusaurus documentation (e.g., `.md` files in the `/docs` folder)
-is [Creative Commons licensed](./LICENSE-docs).
+
 Este projeto esta sobe a licença [MIT](./LICENSE).
 
