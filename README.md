@@ -40,7 +40,6 @@ ReparaTec é uma plataforma intermediadora que conecta empresas que necessitam d
 Brainstorming > Planejamento > Cronograma > Levantamento de requisitos > Diagramas > Documentação > Pesquisa de mercado > Personas > Casos de uso > Prototipação das interfaces > Codificação (Frontend e Backend) > Hospedagem e Deploy.
 ```
 
-
 ## 🌐 Site do projeto
 
 https://www.reparatec.online/
