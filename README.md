@@ -1,5 +1,6 @@
 # REPARATEC 
-![](./Reparatec.png)
+![image](https://github.com/user-attachments/assets/af75fd7a-888a-4518-ad9b-ded3064354b5)
+
 
 ## ✍🏼 Índice
 
