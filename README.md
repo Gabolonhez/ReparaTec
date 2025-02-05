@@ -23,12 +23,11 @@ ReparaTec é uma plataforma intermediadora que conecta empresas que necessitam d
 - [x] Permite realizar conexões, conversa via chat, página de financeiro e página para feedback. 
 
 ## 💻 Tecnologias 
-
-`HTML`
-`CSS`
-`PHP`
-`JavaScript`
-`MySQL`
+- `HTML`
+- `CSS`
+- `PHP`
+- `JavaScript`
+- `MySQL`
 
 ## 🛠️ Etapas realizadas
 
