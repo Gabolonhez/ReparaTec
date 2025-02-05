@@ -19,7 +19,7 @@ ReparaTec é uma plataforma intermediadora que conecta empresas que necessitam d
 ## 🎯 Funcionalidades
 
 - [x] Permite os usuários cadastrarem e acessarem a plataforma, como técnico ou empresa. <br>
-- [x] Permite Abertura, busca, agendamento, listagem, encerramento e avaliação de solicitações de serviços. <br>
+- [x] Permite a abertura, busca, agendamento, listagem, encerramento e avaliação de solicitações de serviços. <br>
 - [x] Permite realizar conexões, conversa via chat, página de financeiro e página para feedback. 
 
 ## 💻 Tecnologias 
