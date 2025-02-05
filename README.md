@@ -18,21 +18,17 @@ ReparaTec é uma plataforma intermediadora que conecta empresas que necessitam d
 
 ## 🎯 Funcionalidades
 
-- [x] `Cadastro e acesso dos usuários`: Permite os usuários cadastrar e acessar a plataforma (técnico ou empresa). <br>
-- [x] `Solicitações de serviços`: Permite Abertura, busca, agendamento, listagem, encerramento e avaliação de solicitações de serviços. <br>
-- [x] `Demais funcionalidades`: Permite realizar conexões, conversa via chat, página de financeiro e página para feedback. 
+- [x] Permite os usuários cadastrarem e acessarem a plataforma, como técnico ou empresa. <br>
+- [x] Permite Abertura, busca, agendamento, listagem, encerramento e avaliação de solicitações de serviços. <br>
+- [x] Permite realizar conexões, conversa via chat, página de financeiro e página para feedback. 
 
 ## 💻 Tecnologias 
 
-`HTML`: Linguagem utilizada para desenvolver a as páginas do aplicativo.
-
-`CSS`: Utilizado para estilização da interface do aplicativo.
-
-`PHP`: Linguagem de programação utilizada para desenvolver o back-end do aplicativo.
-
-`JavaScript`: Linguagem de programação utilizada para desenvolver a lógica do aplicativo.
-
-`MySQL`: Utilizado para criação do banco de dados.
+`HTML`
+`CSS`
+`PHP`
+`JavaScript`
+`MySQL`
 
 ## 🛠️ Etapas realizadas
 
@@ -51,4 +47,3 @@ https://www.reparatec.online/
 ## 🚧 Licença
 
 Este projeto esta sobe a licença [MIT](./LICENSE).
-
