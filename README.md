@@ -1,16 +1,6 @@
 # ReparaTec
 ![image](https://github.com/user-attachments/assets/af75fd7a-888a-4518-ad9b-ded3064354b5)
 
-## ✍🏼 Índice
-
-* [Descrição](#Descrição)
-* [Tecnologias](#Tecnologias)
-* [Funcionalidades](#Funcionalidades)
-* [Etapas realizadas](#Etapas-realizadas)
-* [Site do projeto](#site-do-projeto)
-* [Colaboradores](#Colaboradores)
-* [Licença](#Licença)
-
 ## 📑 Descrição
 
 ReparaTec é uma plataforma intermediadora que conecta empresas que necessitam de suporte em sua infraestrutura tecnológica a técnicos qualificados.
